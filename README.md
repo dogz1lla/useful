@@ -11,4 +11,4 @@ In this repo i will store some useful pieces of code. The following tasks are co
 
 2 Graphs
 
-  2.1 Dijkstra's algorithm
+  2.1 Dijkstra's algorithm (finding the shortest path in a non-directed graph)
