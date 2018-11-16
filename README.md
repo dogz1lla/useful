@@ -12,6 +12,8 @@ In this repo i will store some useful pieces of code. The following tasks are co
 2 Graphs
 
   2.1 Definition of the graph class. One of the methods is Dijkstra's algorithm (finding the shortest path in a non-directed graph)
+
 3 Neural networks
+  
   3.1 A definition of a simple classificator neural network. The example in network.cpp describes a network that can distinguish
       between vectors [1,0] and [0,1].
