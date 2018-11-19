@@ -267,6 +267,9 @@ std::vector<double> NeuralNetwork::control(std::vector<double> x) {
 }
 
 int main() {
+  /* As a test one can apply the described                                                            
+  network as a classificator between unit                                                            
+  vectors [1,0] and [0,1]. */ 
   std::size_t n = 3;
   int layers_[] = {2,3,2};
   std::vector<std::size_t> layers(layers_, layers_+sizeof(layers_)/sizeof(int));
