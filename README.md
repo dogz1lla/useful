@@ -16,4 +16,7 @@ In this repo i will store some useful pieces of code. The following tasks are co
 3 Neural networks
   
   3.1 A definition of a simple classificator neural network. The example in network.cpp describes a network that can distinguish
-      between vectors [1,0] and [0,1].
+      between vectors [1,0] and [0,1] --- network.cpp
+      
+  3.2 The NN defined in network.cpp is applied for the handwritten digit recognition 
+      (i used the famous MNIST data set) --- digits_1.cpp
